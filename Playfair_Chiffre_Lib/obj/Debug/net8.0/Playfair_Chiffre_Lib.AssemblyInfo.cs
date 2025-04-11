@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Playfair_Chiffre_Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a41f6dfe850f1c3b5e8a3231ab221fb79732cd2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Playfair_Chiffre_Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Playfair_Chiffre_Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
